@@ -1,0 +1,991 @@
+{
+  "packages": [
+    {
+      "id": "pkg-1",
+      "slug": "vip-hajj-2026",
+      "titleSo": "Xidhmada Xajka VIP 2026 (1447H)",
+      "titleEn": "VIP Hajj Package 2026 (1447H)",
+      "category": "hajj",
+      "price": 1150,
+      "currency": "USD",
+      "durationDays": 21,
+      "departureDate": "2026-05-20",
+      "returnDate": "2026-06-10",
+      "makkahHotel": "Swiss\u00f4tel Al Maqam Makkah (5-Star)",
+      "madinahHotel": "The Oberoi Madinah (5-Star)",
+      "makkahDistance": "0m (Direct Haram Front)",
+      "madinahDistance": "50m (Direct Prophet Mosque View)",
+      "transportation": "Luxury VIP VIP air-conditioned bus & Haramain High-Speed Train",
+      "availableSeats": 14,
+      "totalSeats": 45,
+      "image": "/assets/images/makkah_kaaba_pilgrims_1794064534790.jpg",
+      "featured": true,
+      "includedSo": [
+        "Fiisaha Xajka ee rasmiga ah oo damaanad qaadan",
+        "Duullimaad toos ah oo labada dhinac ah (Tikidhada Diyaaradda)",
+        "Hoteello 5-xiddigood ah oo ka soo horjeeda Xaramka Makka iyo Madiina",
+        "Quraac iyo Casho Buuxda (Buffet Caalami ah & Soomaali)",
+        "Teendhooyinka VIP Mina & Carafa oo qaboojiye leh (Maktab 1)",
+        "Tareenka Xawaaraha Sare ee Xaramayn (Haramain High-Speed Train)",
+        "Hogaamiyeyaal culimo ah iyo dhaqaatiir Soomaaliyeed oo 24/7 diyaar ah",
+        "Boorsooyin rasmi ah, biyo Zamzam 5L, iyo dharka Ixraamka"
+      ],
+      "includedEn": [
+        "Official verified Hajj Visa processing",
+        "Direct return international flights",
+        "5-Star hotels directly facing the Haram in Makkah & Madinah",
+        "Full buffet breakfast and dinner (International & Somali cuisine)",
+        "VIP air-conditioned tents in Mina & Arafat (Maktab 1)",
+        "Haramain High-Speed Train between Makkah and Madinah",
+        "Accompanied by prominent Somali Islamic scholars and medical team 24/7",
+        "Official travel kit, Zamzam 5L water, and Ihram garments"
+      ],
+      "excludedSo": [
+        "Qarashka gaarka ah ee qofka (Personal shopping)",
+        "Adeegyada dheeraadka ah ee hoteelka (Room service)",
+        "Kharashka Udxiyada/Hadiga (waa la dalban karaa gooni)"
+      ],
+      "excludedEn": [
+        "Personal shopping and laundry expenses",
+        "Hotel extra room service orders",
+        "Hady / Qurbani slaughter fees (can be added optionally)"
+      ],
+      "descriptionSo": "Xidhmada Xajka ee ugu tayada sarreysa, oo loogu talagalay xujaajta doonaya raaxada ugu sarraysa, adeeg degdeg ah, iyo culimo Soomaaliyeed oo si hagar la'aan ah kuugu hagaya gudashada waajibaadka Xajka.",
+      "descriptionEn": "Our premier luxury Hajj package designed for pilgrims seeking the highest level of comfort, proximity to the Holy Harams, and dedicated guidance by senior Somali Islamic scholars."
+    },
+    {
+      "id": "pkg-2",
+      "slug": "ramadan-umrah-special",
+      "titleSo": "Cumrada Bishii Barakaysnayd ee Ramadaan",
+      "titleEn": "Blessed Ramadan Umrah Special",
+      "category": "umrah",
+      "price": 1150,
+      "currency": "USD",
+      "durationDays": 15,
+      "departureDate": "2026-03-05",
+      "returnDate": "2026-03-20",
+      "makkahHotel": "Pullman Zamzam Makkah (5-Star)",
+      "madinahHotel": "Anwar Al Madinah M\u00f6venpick (5-Star)",
+      "makkahDistance": "100m ka socod Xaramka",
+      "madinahDistance": "50m ka socod Masjid Nabawi",
+      "transportation": "Baabuurta raaxada casriga ah ee VIP",
+      "availableSeats": 8,
+      "totalSeats": 30,
+      "image": "/assets/images/madinah_prophet_mosque_1794064535808.jpg",
+      "featured": true,
+      "includedSo": [
+        "Fiisaha Cumrada ee Sacuudiga",
+        "Tikidhada diyaaradda labada jiho",
+        "Degsiimo 10 habeen Makka & 5 habeen Madiina",
+        "Afur iyo Saxuur maalin kasta",
+        "Booqashada goobaha taariikhiga ah ee Makka iyo Madiina (Ziyaaraat)",
+        "Hagidda cibaadada Cumrada oo buuxda",
+        "Biyo Zamzam 5L oo hadiyad ah"
+      ],
+      "includedEn": [
+        "Saudi Umrah Electronic Visa",
+        "Round-trip international flight tickets",
+        "10 nights Makkah & 5 nights Madinah luxury accommodation",
+        "Daily Iftar and Suhoor buffet",
+        "Guided historical tours in Makkah & Madinah (Ziyarat)",
+        "Step-by-step Umrah rituals guidance",
+        "Complimentary 5L Zamzam water container"
+      ],
+      "excludedSo": [
+        "Qarashka gaarka ah ee qofka"
+      ],
+      "excludedEn": [
+        "Personal spending & luggage excesses"
+      ],
+      "descriptionSo": "Ku raaxayso cibaadada tobanka dambe ama bilowga bisha barakaysan ee Ramadaan oo u dhiganta Xaj nabiga lala galay. Duco Waalid waxay kuu damaanad qaadaysaa degsiimo u dhow Xaramka.",
+      "descriptionEn": "Experience the spiritual pinnacle of performing Umrah during the blessed month of Ramadan with prime accommodations steps away from the Grand Mosque."
+    },
+    {
+      "id": "pkg-3",
+      "slug": "parent-deceased-umrah-badal",
+      "titleSo": "Cumrada Waalidka Geeriyooday (Umrah Badal)",
+      "titleEn": "Umrah on Behalf of Deceased Parents (Umrah Badal)",
+      "category": "parent_deceased",
+      "price": 300,
+      "currency": "USD",
+      "durationDays": 5,
+      "departureDate": "2026-04-10",
+      "returnDate": "2026-04-15",
+      "makkahHotel": "Makka Al Mukarrama Shariica Concierge",
+      "madinahHotel": "Duceyn & Ziyaarah Madiina",
+      "makkahDistance": "Xaramka Dhexdiisa",
+      "madinahDistance": "Masjidka Nabiga (NNKH)",
+      "transportation": "Adeeg cibaado toos ah",
+      "availableSeats": 25,
+      "totalSeats": 50,
+      "image": "/assets/images/islamic_cemetery_prayer_qabri_1794066028933.jpg",
+      "featured": true,
+      "includedSo": [
+        "Gudashada Cumro buuxda oo loo gudanayo hooyadaa ama aabbahaa geeriyooday",
+        "Waxaa fulinaya arday sharciyaal ah oo ku nool Makka (Culimo aamminaad leh)",
+        "Muuqaal video toos ah oo cibaadada laga soo duubay iyo duco magac-u-yeerid ah",
+        "Shahaado rasmi ah oo xaqiijinaysa gudashada Cumrada oo magacooda ku qoran",
+        "Biyo Zamzam iyo sadaqo qoyska loogu qaybiyo gudaha Xaramka",
+        "Kala socodka tooska ah ee WhatsApp"
+      ],
+      "includedEn": [
+        "Full complete Umrah performed specifically on behalf of your deceased father or mother",
+        "Performed by vetted, pious Islamic knowledge students resident in Makkah",
+        "Personal video documentation and specific prayers (Du'a) reciting their names at the Kaaba",
+        "Official authenticated certificate of Umrah Badal with their full name",
+        "Zamzam water and charity distributed in their blessed name in Makkah",
+        "Real-time WhatsApp tracking and video dispatch"
+      ],
+      "excludedSo": [
+        "Safarka qofka dalbaday (maadaama ay tahay wakiilasho sharci ah)"
+      ],
+      "excludedEn": [
+        "Requester travel costs (this is a proxy sacred pilgrimage on behalf of the deceased)"
+      ],
+      "descriptionSo": "Duco Waalid waxay si gaar ah u daryeeshaa waalidkaaga adduunka ka tagay. Culimo la aaminsan yahay ayaa Makka uga soo gudanaya Cumro sharci ah iyadoo lagu duceynayo magacooda, lana soo dirayo muuqaalka iyo shahaadada.",
+      "descriptionEn": "Fulfill the greatest filial devotion by having a complete, authenticated Umrah performed on behalf of your deceased parents by trusted Islamic scholars in Makkah, complete with video documentation and official certificate."
+    },
+    {
+      "id": "pkg-4",
+      "slug": "parent-care-umrah-assisted",
+      "titleSo": "Cumrada Waalidka Aan Awoodin Safarka (Gacan-qabasho Buuxda)",
+      "titleEn": "Umrah for Parents Who Cannot Travel (Full Care & Accompanied)",
+      "category": "parent_unable",
+      "price": 3200,
+      "currency": "USD",
+      "durationDays": 14,
+      "departureDate": "2026-04-18",
+      "returnDate": "2026-05-02",
+      "makkahHotel": "Makkah Clock Royal Tower, Fairmont (Direct Elevator to Haram)",
+      "madinahHotel": "Dar Al Taqwa Hotel Madinah (Direct Gate 5 Entry)",
+      "makkahDistance": "0m (Wiish toos u galaya Xaramka)",
+      "madinahDistance": "20m ka socod albaabka haweenka iyo raga",
+      "transportation": "Gawaarida gaarka ah ee dadka naafada ah/kursiga curyaanka & Kaaliyeyaal gaar ah",
+      "availableSeats": 6,
+      "totalSeats": 12,
+      "image": "/assets/images/hajj_umrah_family_elders_1794064535810.jpg",
+      "featured": true,
+      "includedSo": [
+        "Kaaliye gaar ah (Personal Assistant) oo waalidka u riixaya kursiga curyaanka Dawaafka iyo Sacayga",
+        "Hoteel wiishkiisu toos ugu degayo barxadda Xaramka oo aan socod dheer u baahnayn",
+        "Dhaqtar iyo kalkaaliye caafimaad oo la socda qoyska",
+        "Qolalka hoteelka oo qalabaysan (Wheelchair accessible bathrooms & bedding)",
+        "Gaadiid gaar ah oo leh wiishka kuraasta curyaanka",
+        "Cunto fudud oo waafaqsan caafimaadka waayeelka (Diabetic / low-sodium menu available)"
+      ],
+      "includedEn": [
+        "Dedicated personal assistant to push wheelchairs through Tawaf and Sa'i without stress",
+        "Hotels with direct elevators opening into the Haram courtyard \u2014 zero strenuous walking",
+        "Accompanying medical doctor and nurse throughout the journey",
+        "Fully accessible rooms (walk-in showers, support bars, tailored beds)",
+        "Private hydraulic lift vehicles for airport and holy sites transfers",
+        "Custom senior meal plans (low sodium, diabetic-friendly options)"
+      ],
+      "excludedSo": [
+        "Daawooyinka khaaska ah ee dhakhtarkoodu hore ugu qoray"
+      ],
+      "excludedEn": [
+        "Specialized pre-existing prescription medications"
+      ],
+      "descriptionSo": "Xidhmadani waxay si gaar ah loogu talagalay aabbayaasha iyo hooyooyinka waayeelka ah ama xanuunsan ee doonaya inay soo gutaan Cumrada. Waxaan u haynaa daryeel, kaaliyeyaal kuraasta u riixa, iyo hoteello albaabka Xaramka ku yaalla.",
+      "descriptionEn": "Specially engineered for elderly and mobility-challenged parents who wish to perform Umrah with dignity and utmost care, featuring private wheelchair attendants, zero-stair hotels, and medical supervision."
+    },
+    {
+      "id": "pkg-5",
+      "slug": "family-umrah-deluxe",
+      "titleSo": "Cumrada Qoysaska ee Raaxada Leh (Family Deluxe)",
+      "titleEn": "Family Umrah Deluxe Package",
+      "category": "family",
+      "price": 1850,
+      "currency": "USD",
+      "durationDays": 12,
+      "departureDate": "2026-06-15",
+      "returnDate": "2026-06-27",
+      "makkahHotel": "M\u00f6venpick Hotel & Residences Hajar Tower Makkah",
+      "madinahHotel": "Rove Madinah Hotel (4-Star Superior)",
+      "makkahDistance": "50m ka socod Xaramka",
+      "madinahDistance": "150m ka socod Masjid Nabawi",
+      "transportation": "Basaska casriga ah ee qaboojiyaha leh",
+      "availableSeats": 18,
+      "totalSeats": 40,
+      "image": "/assets/images/luxury_makkah_hotel_view_1794064536654.jpg",
+      "featured": false,
+      "includedSo": [
+        "Qiimo dhimis gaar ah oo loogu talagalay carruurta iyo qoysaska (3+ qof)",
+        "Suites ama qolal isku xiran oo qoysaska u gaar ah",
+        "Fiisaha Cumrada iyo tikidhada diyaaradda",
+        "Socdaalka Madiina iyo Makka oo baabuur raaxo leh ah",
+        "Booqashada goobaha taariikhiga ah ee Badr, Uhud, iyo Quba"
+      ],
+      "includedEn": [
+        "Special family discounts for bookings with children (3+ members)",
+        "Interconnecting family suites and dedicated quad rooms",
+        "Saudi Umrah visa and international flight ticketing",
+        "Comfortable private bus transfers between Makkah and Madinah",
+        "Historical tours of Cave of Hira, Uhud, and Quba Mosque"
+      ],
+      "excludedSo": [
+        "Kharashka wax iibsiga shakhsiga"
+      ],
+      "excludedEn": [
+        "Personal shopping expenses"
+      ],
+      "descriptionSo": "Xidhmadani waxay ku habboon tahay qoysaska doonaya inay carruurtooda iyo waalidkood wadajir ugu soo xajiyaan ama ugu soo cimraystaan, iyadoo la ilaalinayo xasiloonida iyo raaxada qoyska.",
+      "descriptionEn": "The ideal spiritual vacation for families wishing to travel together with interconnected suites, child-friendly support, and comfortable transfers."
+    },
+    {
+      "id": "pkg-6",
+      "slug": "standard-year-round-umrah",
+      "titleSo": "Cumrada Caadiga ah ee Sanadlaha ah",
+      "titleEn": "Standard Year-Round Umrah Package",
+      "category": "umrah",
+      "price": 1390,
+      "currency": "USD",
+      "durationDays": 10,
+      "departureDate": "2026-07-05",
+      "returnDate": "2026-07-15",
+      "makkahHotel": "Al Eiman Royal Makkah (4-Star)",
+      "madinahHotel": "Al Eiman Taibah Madinah (4-Star)",
+      "makkahDistance": "350m ka socod Xaramka (Bas joogto ah)",
+      "madinahDistance": "200m ka socod Masjid Nabawi",
+      "transportation": "Basaska qaboojiyaha leh",
+      "availableSeats": 22,
+      "totalSeats": 50,
+      "image": "/assets/images/makkah_kaaba_pilgrims_1794064534790.jpg",
+      "featured": false,
+      "includedSo": [
+        "Fiisaha Cumrada",
+        "Tikidhada diyaaradda labada jiho",
+        "Hoteel 4-xiddigood ah oo nadiif ah",
+        "Quraac maalin kasta ah",
+        "Hagid buuxda oo af Soomaali ah"
+      ],
+      "includedEn": [
+        "Umrah Entry Visa",
+        "Round-trip flight ticket",
+        "Clean 4-star hotel stay",
+        "Daily breakfast buffet",
+        "Full guidance in Somali and English"
+      ],
+      "excludedSo": [
+        "Qadada iyo cashada"
+      ],
+      "excludedEn": [
+        "Lunch and dinner extras"
+      ],
+      "descriptionSo": "Xidhmadani waa mid dhaqaale ahaan ku habboon qof kasta oo doonaya inuu soo guto Cumrada isagoo helaya adeeg hufan oo la aamini karo.",
+      "descriptionEn": "An economical, dependable Umrah package ensuring full visa and flight support with comfortable accommodations."
+    }
+  ],
+  "hotels": [
+    {
+      "id": "htl-1",
+      "name": "Makkah Clock Royal Tower, A Fairmont Hotel",
+      "city": "Makkah",
+      "stars": 5,
+      "distanceToHaram": "0m (Direct Kaaba & Haram View)",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/luxury_makkah_hotel_view_1794064536654.jpg",
+      "address": "King Abdul Aziz Endowment, Abraj Al Bait Complex, Makkah",
+      "descriptionSo": "Hoteelka ugu caansan Makka Al Mukarrama, oo ku dhex yaalla dhismaha Abraj Al Bait. Waxaad ka helaysaa aragti toos ah oo Xaramka iyo Kacbada ah, wiishash toos ah oo kuu gaynaya masaajidka.",
+      "descriptionEn": "The iconic focal point of Makkah hospitality inside the Abraj Al Bait Complex with panoramic Kaaba views and elevators opening directly into the Holy Mosque.",
+      "amenities": [
+        "Direct Haram View",
+        "Free High-Speed WiFi",
+        "9 Fine Dining Restaurants",
+        "24/7 Room Service",
+        "Direct Elevator to Haram",
+        "Fitness & Spa"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-101",
+          "nameSo": "Qolka Laba-jiifka ee Xaramka Fiirinaya (Kaaba View Double)",
+          "nameEn": "Kaaba View Deluxe Room",
+          "price": 0,
+          "capacity": 2
+        },
+        {
+          "id": "rm-102",
+          "nameSo": "Qolka Sadex-jiifka (Triple Room Haram)",
+          "nameEn": "Triple Panoramic Room",
+          "price": 0,
+          "capacity": 3
+        },
+        {
+          "id": "rm-103",
+          "nameSo": "Suite Qoyska VIP (Family Executive Suite)",
+          "nameEn": "VIP Family Presidential Suite",
+          "price": 0,
+          "capacity": 5
+        }
+      ]
+    },
+    {
+      "id": "htl-2",
+      "name": "Pullman Zamzam Makkah",
+      "city": "Makkah",
+      "stars": 5,
+      "distanceToHaram": "50m (Abraj Al Bait Courtyard)",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/makkah_kaaba_pilgrims_1794064534790.jpg",
+      "address": "Abraj Al Bait Complex, Ajyad Street, Makkah",
+      "descriptionSo": "Hoteel aad u heersareeya oo ku yaalla Abraj Al Bait, oo u dhow albaabka Boqor Cabdulcasiis ee Xaramka. Waxaa loogu jecel yahay adeegga degdegga ah iyo nadaafadda.",
+      "descriptionEn": "A favorite luxury hotel at the doorstep of the King Abdulaziz Gate in Makkah, offering comfortable suites and exceptional hospitality.",
+      "amenities": [
+        "Close to King Abdulaziz Gate",
+        "Complimentary WiFi",
+        "Family Suites",
+        "Multi-cuisine Buffet",
+        "Express Check-in"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-201",
+          "nameSo": "Qolka Caadiga ah (Classic Twin)",
+          "nameEn": "Classic Twin Room",
+          "price": 0,
+          "capacity": 2
+        },
+        {
+          "id": "rm-202",
+          "nameSo": "Qolka Afar-jiifka ee Qoyska (Quad Suite)",
+          "nameEn": "Family Quad Suite",
+          "price": 0,
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": "htl-3",
+      "name": "The Oberoi Madinah",
+      "city": "Madinah",
+      "stars": 5,
+      "distanceToHaram": "20m (Front of Prophet Mosque Ladies & Mens Gates)",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/madinah_prophet_mosque_1794064535808.jpg",
+      "address": "Northern Central Area, Al-Baqi Street, Madinah",
+      "descriptionSo": "Mid ka mid ah hoteellada ugu quruxda badan Madiina Al Munawwarah, oo toos uga soo horjeeda Masjidka Nabiga (NNKH). Adeeg heer caalami ah oo nasteexo leh.",
+      "descriptionEn": "World-renowned luxury hotel right facing the courtyard of Al-Masjid an-Nabawi in Madinah, celebrated for serene elegance and elite personalized service.",
+      "amenities": [
+        "Direct Prophet Mosque Facing",
+        "24/7 Butler Service",
+        "Gourmet Dining",
+        "Underground Secure Parking",
+        "Full Concierge"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-301",
+          "nameSo": "Qolka Deluxe ee Masjidka Fiiriya",
+          "nameEn": "Deluxe Prophet Mosque View",
+          "price": 0,
+          "capacity": 2
+        },
+        {
+          "id": "rm-302",
+          "nameSo": "Junior Suite Madinah",
+          "nameEn": "Executive Junior Suite",
+          "price": 0,
+          "capacity": 3
+        }
+      ]
+    },
+    {
+      "id": "htl-4",
+      "name": "Anwar Al Madinah M\u00f6venpick",
+      "city": "Madinah",
+      "stars": 5,
+      "distanceToHaram": "50m (Direct Access to Ladies Entrance)",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/madinah_prophet_mosque_1794064535808.jpg",
+      "address": "Central Northern Area, Madinah",
+      "descriptionSo": "Hoteelka ugu ballaaran Madiina oo toos ugu xiran suuqa weyn iyo barxadda Masjidka Nabiga. Waxay aad ugu habboon tahay qoysaska iyo kooxaha.",
+      "descriptionEn": "The largest hotel in Madinah directly connected to the prayer plazas and a modern shopping arcade with quick access to the Prophet Mosque gates.",
+      "amenities": [
+        "Direct Mall Access",
+        "4 Restaurants",
+        "High Speed WiFi",
+        "Accessible Rooms",
+        "Somali-speaking staff on request"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-401",
+          "nameSo": "Qolka Standard Twin",
+          "nameEn": "Standard Twin Room",
+          "price": 0,
+          "capacity": 2
+        },
+        {
+          "id": "rm-402",
+          "nameSo": "Qolka Qoyska (Quad Room)",
+          "nameEn": "Family Quad Room",
+          "price": 0,
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": "htl-5",
+      "name": "Swiss\u00f4tel Al Maqam Makkah",
+      "city": "Makkah",
+      "stars": 5,
+      "distanceToHaram": "0m (Direct Elevator Access)",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/luxury_makkah_hotel_view_1794064536654.jpg",
+      "address": "Abraj Al Bait Complex, King Abdul Aziz Endowment, Makkah",
+      "descriptionSo": "Waxay leedahay aragti cajiib ah oo Kacbada Sharafta leh, qolal casri ah oo waasac ah, iyo adeeg heersare ah.",
+      "descriptionEn": "A high-rise beacon inside the Abraj Al Bait towers facing the Kaaba with direct pedestrian entry to the Holy Mosque.",
+      "amenities": [
+        "Direct Haram Pedestrian Ramp",
+        "Panoramic Windows",
+        "Family Friendly",
+        "Complimentary Breakfast Options"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-501",
+          "nameSo": "Classic King Room",
+          "nameEn": "Classic King Room",
+          "price": 0,
+          "capacity": 2
+        },
+        {
+          "id": "rm-502",
+          "nameSo": "Signature Kaaba View",
+          "nameEn": "Signature Kaaba View Room",
+          "price": 0,
+          "capacity": 2
+        }
+      ]
+    },
+    {
+      "id": "htl-6",
+      "name": "Jazeerah Luxury Hotel Mogadishu",
+      "city": "Mogadishu",
+      "stars": 4,
+      "distanceToHaram": "Near Aden Adde Airport",
+      "pricePerNight": 0,
+      "currency": "USD",
+      "image": "/assets/images/luxury_makkah_hotel_view_1794064536654.jpg",
+      "address": "Airport Road, Wadajir, Mogadishu, Somalia",
+      "descriptionSo": "Hoteel raaxo leh oo loogu talagalay safarada ku nasanaya Muqdisho ka hor inta aysan u dhoofin Xajka, Cumrada ama dibadaha kale.",
+      "descriptionEn": "Comfortable luxury hotel adjacent to Aden Adde International Airport for transit travelers before embarking on international flights.",
+      "amenities": [
+        "Airport Shuttle",
+        "High Security",
+        "Restaurant & Somali Tea Lounge",
+        "Business Center"
+      ],
+      "roomTypes": [
+        {
+          "id": "rm-601",
+          "nameSo": "Qolka Raaxada (Deluxe King)",
+          "nameEn": "Deluxe King Room",
+          "price": 0,
+          "capacity": 2
+        }
+      ]
+    }
+  ],
+  "flights": [
+    {
+      "id": "flt-1",
+      "airline": "Turkish Airlines",
+      "airlineCode": "TK",
+      "flightNumber": "TK 687 / TK 96",
+      "origin": "MGQ",
+      "originCity": "Mogadishu",
+      "destination": "JED",
+      "destinationCity": "Jeddah (Makkah Gateway)",
+      "departureTime": "10:45",
+      "arrivalTime": "19:30",
+      "duration": "8h 45m",
+      "stops": 1,
+      "stopCity": "Istanbul (IST)",
+      "price": 760,
+      "baggage": "2 x 23kg + 8kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Airbus A330-300"
+    },
+    {
+      "id": "flt-2",
+      "airline": "Ethiopian Airlines",
+      "airlineCode": "ET",
+      "flightNumber": "ET 379 / ET 402",
+      "origin": "MGQ",
+      "originCity": "Mogadishu",
+      "destination": "JED",
+      "destinationCity": "Jeddah (Makkah Gateway)",
+      "departureTime": "13:00",
+      "arrivalTime": "21:15",
+      "duration": "8h 15m",
+      "stops": 1,
+      "stopCity": "Addis Ababa (ADD)",
+      "price": 690,
+      "baggage": "2 x 23kg + 7kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Boeing 787 Dreamliner"
+    },
+    {
+      "id": "flt-3",
+      "airline": "flydubai",
+      "airlineCode": "FZ",
+      "flightNumber": "FZ 659 / FZ 831",
+      "origin": "MGQ",
+      "originCity": "Mogadishu",
+      "destination": "MED",
+      "destinationCity": "Madinah (Prince Mohammad Airport)",
+      "departureTime": "08:30",
+      "arrivalTime": "17:20",
+      "duration": "8h 50m",
+      "stops": 1,
+      "stopCity": "Dubai (DXB)",
+      "price": 720,
+      "baggage": "30kg Checked + 7kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Boeing 737 MAX 8"
+    },
+    {
+      "id": "flt-4",
+      "airline": "Daallo Airlines",
+      "airlineCode": "D3",
+      "flightNumber": "D3 142",
+      "origin": "HGA",
+      "originCity": "Hargeisa",
+      "destination": "DXB",
+      "destinationCity": "Dubai",
+      "departureTime": "09:00",
+      "arrivalTime": "14:30",
+      "duration": "4h 30m",
+      "stops": 0,
+      "price": 520,
+      "baggage": "30kg Checked + 7kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Boeing 737-400"
+    },
+    {
+      "id": "flt-5",
+      "airline": "Qatar Airways",
+      "airlineCode": "QR",
+      "flightNumber": "QR 1432 / QR 1184",
+      "origin": "MGQ",
+      "originCity": "Mogadishu",
+      "destination": "IST",
+      "destinationCity": "Istanbul",
+      "departureTime": "14:10",
+      "arrivalTime": "23:50",
+      "duration": "9h 40m",
+      "stops": 1,
+      "stopCity": "Doha (DOH)",
+      "price": 840,
+      "baggage": "2 x 23kg + 7kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Boeing 777-300ER"
+    },
+    {
+      "id": "flt-6",
+      "airline": "Saudia Airlines",
+      "airlineCode": "SV",
+      "flightNumber": "SV 420",
+      "origin": "NBO",
+      "originCity": "Nairobi",
+      "destination": "JED",
+      "destinationCity": "Jeddah",
+      "departureTime": "02:30",
+      "arrivalTime": "06:40",
+      "duration": "4h 10m",
+      "stops": 0,
+      "price": 580,
+      "baggage": "2 x 23kg + 7kg Cabin",
+      "cabinClass": "economy",
+      "airplane": "Airbus A320neo"
+    }
+  ],
+  "visas": [
+    {
+      "id": "vsa-sau-umrah",
+      "country": "Sacuudi Carabiya (Saudi Arabia)",
+      "countryCode": "SA",
+      "category": "umrah",
+      "titleSo": "Fiisaha Cumrada & Dalxiiska Sacuudiga",
+      "titleEn": "Saudi Arabia Umrah & Tourist E-Visa",
+      "processingDays": "2 - 4 Maalmood",
+      "validity": "1 Sano (Galid badan / Multiple Entry)",
+      "price": 185,
+      "requirementsSo": [
+        "Baasaboor shaqaynaya ugu yaraan 6 bilood",
+        "Sawir cad oo cabbirka baasaboorka ah oo caddaan ah gadaashiisu",
+        "Balan-qaad safar iyo xaqiijin caafimaad",
+        "Xogta qofka la xiriirayo iyo cinwaanka"
+      ],
+      "requirementsEn": [
+        "Passport valid for at least 6 months from travel date",
+        "Recent passport-sized photo with clean white background",
+        "Confirmed flight and hotel itinerary (provided by Duco Waalid)",
+        "Completed electronic biometrics profile"
+      ],
+      "documentsSo": [
+        "Baasaboor Asal ah ama Scan cad",
+        "Sawir Digital ah",
+        "Tallaalka Caafimaadka ee loo baahan yahay"
+      ],
+      "documentsEn": [
+        "Scanned clear bio-page of Passport",
+        "Digital Passport Photo",
+        "Health Certificate / Vaccination proof"
+      ],
+      "descriptionSo": "Fiisaha rasmiga ah ee Cumrada iyo booqashada Boqortooyada Sacuudiga. Duco Waalid waxay si toos ah uga shaqeysaa nidaamka rasmiga ah ee Nusuk iyo Muqeem.",
+      "descriptionEn": "Official Saudi electronic visa permitting Umrah pilgrimage, tourism, and family visits across all Saudi cities. Processed via official accredited gateways."
+    },
+    {
+      "id": "vsa-turkey",
+      "country": "Turkiga (Turkey)",
+      "countryCode": "TR",
+      "category": "tourist",
+      "titleSo": "Fiisaha Dalxiiska & Ganacsiga Turkiga",
+      "titleEn": "Turkey Tourist & Business Sticker/E-Visa",
+      "processingDays": "5 - 10 Maalmood",
+      "validity": "90 Maalmood",
+      "price": 240,
+      "requirementsSo": [
+        "Baasaboor shaqaynaya 6 bilood ka badan",
+        "Warbixinta xisaabta bangiga (Bank Statement 3 bilood ah)",
+        "Warqad shaqo ama shati ganacsi",
+        "Sawirro biometric ah (5x5 cm)"
+      ],
+      "requirementsEn": [
+        "Passport valid for at least 6 months",
+        "Official bank statement showing adequate funds (last 3-6 months)",
+        "Employment letter or registered business license",
+        "Biometric photos (5x5 cm white background)"
+      ],
+      "documentsSo": [
+        "Baasaboor Scan",
+        "Xisaab Bangi",
+        "Warqad Shaqo/Ganacsi",
+        "Caymiska Safarka"
+      ],
+      "documentsEn": [
+        "Passport Scan",
+        "Bank Statement",
+        "Employment / Business Verification",
+        "Travel Insurance"
+      ],
+      "descriptionSo": "Ka hel fiisaha dalka Turkiga dalxiis, ganacsi ama daaweyn adigoo maraya xafiisyada rasmiga ah ee Duco Waalid.",
+      "descriptionEn": "Comprehensive Turkey visa facilitation for holidays, business procurement, and medical tourism."
+    },
+    {
+      "id": "vsa-uae-dubai",
+      "country": "Imaaraadka Carabta - Dubai (UAE)",
+      "countryCode": "AE",
+      "category": "tourist",
+      "titleSo": "Fiisaha Dalxiiska Dubai (30 / 60 Maalmood)",
+      "titleEn": "UAE Dubai Tourist Visa (30 / 60 Days)",
+      "processingDays": "24 - 48 Saacadood",
+      "validity": "30 ama 60 Maalmood",
+      "price": 160,
+      "requirementsSo": [
+        "Koobiga baasaboorka oo midab leh",
+        "Sawir cad oo cabbirka baasaboorka ah",
+        "Tikidh diyaaradeed oo labada dhinac ah"
+      ],
+      "requirementsEn": [
+        "Colored high-resolution passport copy",
+        "Clear passport photo on white background",
+        "Return confirmed flight reservation"
+      ],
+      "documentsSo": [
+        "Bogga koowaad ee Baasaboorka",
+        "Sawir shakhsi ah"
+      ],
+      "documentsEn": [
+        "Passport bio-data page scan",
+        "White-background digital photo"
+      ],
+      "descriptionSo": "Fiisaha Dubai oo degdeg ah 24 ilaa 48 saac gudahood ku soo baxa. Waxaan kuu diyaarinaynaa caymiska safarka iyo xaqiijinta hoteelka.",
+      "descriptionEn": "Fast-track UAE visit visas issued within 24 to 48 hours. Includes compliant medical travel insurance."
+    },
+    {
+      "id": "vsa-kenya-eta",
+      "country": "Kiinya (Kenya)",
+      "countryCode": "KE",
+      "category": "tourist",
+      "titleSo": "Ogolaanshaha Safarka Kiinya (Kenya ETA)",
+      "titleEn": "Kenya Electronic Travel Authorisation (ETA)",
+      "processingDays": "24 - 72 Saacadood",
+      "validity": "90 Maalmood",
+      "price": 75,
+      "requirementsSo": [
+        "Baasaboor shaqaynaya 6 bilood",
+        "Boos celinta hoteelka Kiinya ama casuumaad",
+        "Tikidhka diyaaradda"
+      ],
+      "requirementsEn": [
+        "Passport valid for at least 6 months",
+        "Proof of accommodation or invitation letter",
+        "Return flight itinerary"
+      ],
+      "documentsSo": [
+        "Baasaboor",
+        "Sawir Selfie ah",
+        "Caddeyn Degsiimo"
+      ],
+      "documentsEn": [
+        "Passport Copy",
+        "Selfie Photo",
+        "Hotel Reservation"
+      ],
+      "descriptionSo": "Nidaamka cusub ee ETA Kenya oo lagu galo magaalada Nairobi iyo gobollada kale ee dalka Kiinya.",
+      "descriptionEn": "Official Kenya ETA processing for tourists, transit passengers, and business travelers."
+    },
+    {
+      "id": "vsa-india-medical",
+      "country": "Hindiya (India)",
+      "countryCode": "IN",
+      "category": "medical",
+      "titleSo": "Fiisaha Daaweynta Hindiya (Medical Visa)",
+      "titleEn": "India Medical & Attendant Visa",
+      "processingDays": "3 - 7 Maalmood",
+      "validity": "6 Bilood",
+      "price": 190,
+      "requirementsSo": [
+        "Warqad casuumaad ah oo ka timid cusbitaal aqoonsan oo ku yaalla Hindiya",
+        "Warbixinta caafimaadka bukaanka (Medical records)",
+        "Baasaboor shaqaynaya",
+        "Xisaab bangi"
+      ],
+      "requirementsEn": [
+        "Formal hospital invitation letter from an accredited Indian medical center",
+        "Patient diagnosis reports and doctor recommendation",
+        "Valid passport for patient and attendant",
+        "Sufficient financial bank records"
+      ],
+      "documentsSo": [
+        "Warbixin Caafimaad",
+        "Casuumaad Cusbitaal",
+        "Baasaboor Scan"
+      ],
+      "documentsEn": [
+        "Medical History Dossier",
+        "Indian Hospital VPA Letter",
+        "Passports Scan"
+      ],
+      "descriptionSo": "Duco Waalid waxay xiriir la leedahay cusbitaallada ugu waaweyn dalka Hindiya, waxaanan kuu fududeyneynaa casuumaadda degdegga ah iyo fiisaha daaweynta adiga iyo weheshaada.",
+      "descriptionEn": "Dedicated medical visa processing with direct hospital liaison in Delhi, Mumbai, Hyderabad, and Chennai."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "tst-1",
+      "name": "Xaaji Cabdullaahi Maxamed Faarax",
+      "locationSo": "Muqdisho, Soomaaliya",
+      "locationEn": "Mogadishu, Somalia",
+      "packageTypeSo": "Xidhmada Xajka VIP",
+      "packageTypeEn": "VIP Hajj Package",
+      "commentSo": "Duco Waalid waxay naga qaadeen culays weyn. Hoteellada waxay ahaayeen kuwo toos uga soo jeeda Kacbada, culimadooduna ma daalin habeen iyo maalin. Waa shirkad la aamini karo.",
+      "commentEn": "Duco Waalid relieved us of all worries during our blessed Hajj. The hotels were right at the Haram courtyard, and their guides attended to us tirelessly. 100% trustworthy.",
+      "rating": 5,
+      "date": "2025-07-12"
+    },
+    {
+      "id": "tst-2",
+      "name": "Fadumo Xasan Warsame",
+      "locationSo": "London, Boqortooyada Ingiriiska",
+      "locationEn": "London, United Kingdom",
+      "packageTypeSo": "Cumrada Waalidka Geeriyooday",
+      "packageTypeEn": "Umrah Badal for Deceased Mother",
+      "commentSo": "Aad ayaan ugu farxay adeegga Cumrada Badal ee hooyaday loogu soo guday Makka. Waxay ii soo direen muuqaal toos ah oo Kacbada hortooda loogu duceeyey iyo shahaadadii oo buuxda. Ilaahay ha ka abaalmariyo.",
+      "commentEn": "I ordered the Umrah Badal for my beloved late mother from London. Duco Waalid sent me a heartbreakingly beautiful video praying specifically for her at the Kaaba and dispatched the authenticated certificate. True peace of mind.",
+      "rating": 5,
+      "date": "2025-10-04"
+    },
+    {
+      "id": "tst-3",
+      "name": "Eng. Cabdirisaaq Nuur Cilmi",
+      "locationSo": "Minneapolis, Mareykanka",
+      "locationEn": "Minneapolis, USA",
+      "packageTypeSo": "Cumrada Waalidka Aan Awoodin Safarka",
+      "packageTypeEn": "Assisted Parents Umrah",
+      "commentSo": "Aabbahay oo 78 jir ah ayaan la safray. Kaaliyeyaashii kursiga u riixayey iyo hoteelkii wiishkiisu tooska u ahaa Xaramka ayaa u fududeeyey cibaadada. Runtii magacooda \"Duco Waalid\" waa mid u qalma ficilkooda.",
+      "commentEn": "Traveled with my 78-year-old father. The dedicated wheelchair assistant and direct-elevator hotel made his Umrah dream come true without pain. Their name \"Duco Waalid\" represents their genuine actions.",
+      "rating": 5,
+      "date": "2025-12-18"
+    },
+    {
+      "id": "tst-4",
+      "name": "Dr. Maryan Shire Guuleed",
+      "locationSo": "Hargeysa, Soomaaliya",
+      "locationEn": "Hargeisa, Somaliland",
+      "packageTypeSo": "Fiisaha Dalxiiska & Tikidhadaha",
+      "packageTypeEn": "Flight Ticketing & Dubai Visa",
+      "commentSo": "Tikidhada diyaaradda Daallo iyo flydubai iyo fiisaha Dubai wax ka yar 24 saac ayey iigu soo saareen. Xafiiskoodu waa mid xirfad sare leh oo si hufan ula macaamila macaamiisha.",
+      "commentEn": "Secured our family flight tickets and UAE visas in under 24 hours without any delay. Extremely professional team with reliable customer service.",
+      "rating": 5,
+      "date": "2026-01-20"
+    }
+  ],
+  "settings": {
+    "companyName": "Duco Waalid Travel and Agency",
+    "taglineSo": "Safarkaaga, Masuuliyaddayada.",
+    "taglineEn": "Your Journey, Our Responsibility.",
+    "phoneMogadishu": "+966 54 825 5198",
+    "phoneHargeisa": "+252 63 6793144",
+    "whatsappNumber": "+966548255198",
+    "emailSupport": "info@ducowaalid.com",
+    "emailBookings": "bookings@ducowaalid.com",
+    "addressMogadishu": "Ibrahim Al Khalil Road, Abraj Al Bait, Makkah Al Mukarrama, Saudi Arabia",
+    "addressHargeisa": "Waddada Madaxtooyada, Hargeysa, Somaliland",
+    "addressNairobi": "6th Floor, Lonrho House, Standard Street, Nairobi, Kenya",
+    "workingHoursSo": "Sabti - Khamiis: 8:00 Subaxnimo - 8:30 Fiidnimo | Jimco: 2:00 Galabnimo - 8:00 Fiidnimo",
+    "workingHoursEn": "Saturday - Thursday: 8:00 AM - 8:30 PM | Friday: 2:00 PM - 8:00 PM (EAT)",
+    "socialFacebook": "https://facebook.com/ducowaalidtravel",
+    "socialInstagram": "https://instagram.com/ducowaalidtravel",
+    "socialYouTube": "https://youtube.com/@ducowaalidtravel",
+    "socialTikTok": "https://tiktok.com/@ducowaalidtravel",
+    "announcementSo": "Diwaangelinta Xajka 2026 (1447H) iyo Cumrada Ramadaan waa furan tahay! Kuraas xaddidan ayaa hadhay.",
+    "announcementEn": "Registration for Hajj 2026 (1447H) and Ramadan Umrah is officially open! Limited seats remaining.",
+    "showAnnouncement": true
+  },
+  "bookings": [
+    {
+      "id": "bk-1001",
+      "referenceNo": "DW-HAJJ-849201",
+      "serviceType": "Hajj",
+      "serviceTitle": "Xidhmada Xajka VIP 2026 (1447H)",
+      "customerName": "Cabdullaahi Maxamed Faarax",
+      "email": "abdullahi.farah@example.com",
+      "phone": "+252 61 555 1234",
+      "travelDate": "2026-05-20",
+      "totalAmount": 6850,
+      "currency": "USD",
+      "paymentStatus": "Deposit Paid",
+      "status": "Confirmed",
+      "details": {
+        "passportNo": "P0184920",
+        "nationality": "Somali",
+        "packageCategory": "hajj",
+        "hotel": "Swiss\u00f4tel Al Maqam Makkah",
+        "passengersCount": 1,
+        "specialNeeds": "None"
+      },
+      "createdAt": "2026-11-02T15:29:03.287Z"
+    },
+    {
+      "id": "bk-1002",
+      "referenceNo": "DW-UMR-592184",
+      "serviceType": "Parent Umrah",
+      "serviceTitle": "Cumrada Waalidka Geeriyooday (Umrah Badal)",
+      "customerName": "Fadumo Xasan Warsame",
+      "email": "fadumo.warsame@example.co.uk",
+      "phone": "+44 7700 900123",
+      "travelDate": "2026-04-10",
+      "totalAmount": 850,
+      "currency": "USD",
+      "paymentStatus": "Fully Paid",
+      "status": "Under Review",
+      "details": {
+        "parentName": "Xaawo Cali Nuur (Marxuumad)",
+        "requesterRelation": "Daughter / Gabadheedii",
+        "videoDispatch": "WhatsApp Direct",
+        "assignedScholar": "Sheikh Cabdiqani (Makka)"
+      },
+      "createdAt": "2026-11-05T15:29:03.288Z"
+    },
+    {
+      "id": "bk-1003",
+      "referenceNo": "DW-FLT-309172",
+      "serviceType": "Flight",
+      "serviceTitle": "Turkish Airlines (MGQ -> JED)",
+      "customerName": "Eng. Cabdirisaaq Nuur Cilmi",
+      "email": "abdirisaq.cilmi@example.com",
+      "phone": "+1 612 555 7890",
+      "travelDate": "2026-04-18",
+      "totalAmount": 1520,
+      "currency": "USD",
+      "paymentStatus": "Unpaid",
+      "status": "Pending",
+      "details": {
+        "tripType": "round-trip",
+        "passengers": {
+          "adults": 2,
+          "children": 0,
+          "infants": 0
+        },
+        "cabinClass": "economy",
+        "flightNumber": "TK 687 / TK 96",
+        "pnrNumber": "PNR-DW892X"
+      },
+      "createdAt": "2026-11-06T15:29:03.288Z"
+    }
+  ],
+  "visaApplications": [
+    {
+      "id": "vapp-1",
+      "referenceNo": "DW-VSA-772910",
+      "visaCategoryId": "vsa-sau-umrah",
+      "visaTitle": "Saudi Arabia Umrah & Tourist E-Visa",
+      "destinationCountry": "Saudi Arabia",
+      "applicantName": "Sahra Jaamac Aadan",
+      "gender": "female",
+      "nationality": "Somali",
+      "passportNumber": "P0938471",
+      "passportExpiry": "2030-08-14",
+      "birthDate": "1988-03-22",
+      "phone": "+252 61 777 4433",
+      "email": "sahra.aadan@example.com",
+      "travelDate": "2026-04-01",
+      "uploadedDocuments": [
+        {
+          "fileName": "Passport_Bio_Sahra.jpg",
+          "docType": "Passport Copy",
+          "fileSize": "1.8 MB"
+        },
+        {
+          "fileName": "Photo_White_Bg.jpg",
+          "docType": "Biometric Photo",
+          "fileSize": "850 KB"
+        }
+      ],
+      "adminNotes": "Documents verified. Application submitted to Ministry gateway.",
+      "status": "Embassy Processing",
+      "createdAt": "2026-11-04T15:29:03.288Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cst-1",
+      "name": "Cabdullaahi Maxamed Faarax",
+      "email": "abdullahi.farah@example.com",
+      "phone": "+252 61 555 1234",
+      "country": "Somalia",
+      "totalBookings": 2,
+      "lastBookingDate": "2026-05-20"
+    },
+    {
+      "id": "cst-2",
+      "name": "Fadumo Xasan Warsame",
+      "email": "fadumo.warsame@example.co.uk",
+      "phone": "+44 7700 900123",
+      "country": "United Kingdom",
+      "totalBookings": 1,
+      "lastBookingDate": "2026-04-10"
+    },
+    {
+      "id": "cst-3",
+      "name": "Eng. Cabdirisaaq Nuur Cilmi",
+      "email": "abdirisaq.cilmi@example.com",
+      "phone": "+1 612 555 7890",
+      "country": "United States",
+      "totalBookings": 3,
+      "lastBookingDate": "2026-04-18"
+    }
+  ],
+  "messages": []
+}

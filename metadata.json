@@ -1,0 +1,6 @@
+{
+  "name": "Duco Waalid Travel and Agency",
+  "description": "Trusted travel services for Hajj, Umrah, flight reservations, hotel bookings, visa processing, and international journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
